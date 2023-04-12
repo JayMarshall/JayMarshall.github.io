@@ -3,8 +3,6 @@ title: alec-marshall
 paginate: 5
 theme: charlolamode
 
-
-
 menu:
     main:
         - name: Portfolio
@@ -28,8 +26,8 @@ menu:
 
 params:
     author: Alec Marshall
-
-
+    hideFooter: false
+    
     defaultTheme: auto
     # disableThemeToggle: true
     ShowShareButtons: true
@@ -60,7 +58,7 @@ params:
 
     socialIcons:
         - name: github
-          url: "https://github.com/charlola"
+          url: "https://github.com/JayMarshall"
         - name: linkedin
           url: "https://www.linkedin.com/in/alec-marshall/"
 
