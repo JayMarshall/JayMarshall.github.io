@@ -4,6 +4,7 @@ title: Alec's Portfolio and Resume
 ## Projects
 
 **GeoPackager**
+
 GeoPackager is a simplified interface for working with and creating OGC-compliant GeoPackages in Python.
 
 GeoPackage is a portable, platform-agnostic geospatial database built on SQLite. GeoPackager aims to offer a minimalistic interface for CRUD operations within a GeoPackage. 
